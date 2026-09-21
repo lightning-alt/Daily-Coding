@@ -1,37 +1,18 @@
-# Daily Coding Strike - September 14, 2026
+# Daily Coding Strike - September 21, 2026
 
 ## Today's Achievements 🔥
 
-### Commit 1: Java Basics
-- **File:** `JavaBasics.java`
-- **Commit SHA:** `168b5f6`
-- **Message:** "Daily Coding: Add Java Basics tutorial with variables, control flow, loops, and arrays"
+### Commit 1: Python Algorithm Practice
+- **File:** `challenge_09_21_2026.py`
+- **Message:** "Daily Coding: Add Python practice problems for anagrams, stock profit, and grouping anagrams"
 - **Topics Covered:**
-  - Variables and Data Types (int, double, boolean, char, String)
-  - Control Flow (if-else statements)
-  - Loops (for, while, enhanced for)
-  - Arrays (creation, iteration, finding max)
-  - Methods (regular and overloaded methods)
-
-### Commit 2: Python Data Structures
-- **File:** `PythonDataStructures.py`
-- **Commit SHA:** `aad65c2`
-- **Message:** "Daily Coding: Add Python Data Structures tutorial with lists, dicts, sets, and operations"
-- **Topics Covered:**
-  - Lists (append, remove, iteration)
-  - Tuples (immutable sequences)
-  - Dictionaries (key-value pairs)
-  - Sets (unique elements)
-  - String Operations (upper, lower, replace, split)
-  - List Comprehension
-  - Functions (regular and lambda)
-  - Exception Handling (try-except-finally)
-  - Data Processing
+  - String comparison and counting
+  - Maximum profit calculation
+  - Hash map grouping patterns
 
 ## Strike Status
-✅ **Day 1 Complete** - 2 commits
-- Java Basics Tutorial
-- Python Data Structures Tutorial
+✅ **Day 2 Complete** - 1 challenge file
+- Python daily algorithm practice set
 
 **Repository:** [lightning-alt/Daily-Coding](https://github.com/lightning-alt/Daily-Coding)
 
